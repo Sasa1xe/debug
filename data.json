@@ -1,0 +1,17 @@
+{
+  "users": [
+    { "id": 1, "name": "eyad" },
+    { "id": 2, "name": "marawan mousa" },
+    { "name": "MARAWAN PABLO", "id": "6063724" },
+    { "name": "habiba", "id": "8629054" },
+    { "name": "mahmoud", "id": "867063" }
+  ],
+  "books": [],
+  "orders": [],
+  "authors": [
+    { "email": 2, "name": "Ahmed Hassan" },
+    { "": 3, "name": "Mohamed Ahmed" },
+    { "id": 4, "name": "ahmed Samir" },
+    { "id": "7425909", "name": "Moustafa Mohamed" },
+    { "name": "pevb", "age": 1786457, "id": "2571746" }]
+}
